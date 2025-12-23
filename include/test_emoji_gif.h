@@ -24,20 +24,6 @@ extern "C"
 #endif
 
     /**
-     * @brief Khai báo GIF test
-     *
-     * GIF này có kích thước 800x600 pixel, format RGB565
-     */
-    LV_IMAGE_DECLARE(test);
-
-    /**
-     * @brief Khai báo GIF monalisa
-     *
-     * GIF này có kích thước 640x640 pixel, format RGB565
-     */
-    LV_IMAGE_DECLARE(monalisa);
-
-    /**
      * @brief Khai báo GIF cat
      *
      * GIF này có kích thước 240x240 pixel, format XRGB8888
