@@ -58,12 +58,12 @@ extern "C"
     //  */
     // LV_IMAGE_DECLARE(Mochi_buon);
 
-    /**
-     * @brief Khai báo GIF Mochi_buonngu
-     *
-     * GIF này có kích thước 128x78 pixel, format XRGB8888
-     */
-    LV_IMAGE_DECLARE(Mochi_buonngu);
+    // /**
+    //  * @brief Khai báo GIF Mochi_buonngu
+    //  *
+    //  * GIF này có kích thước 128x78 pixel, format XRGB8888
+    //  */
+    // LV_IMAGE_DECLARE(Mochi_buonngu);
     // /**
     //  * @brief Khai báo GIF Mochi_buonngu2
     //  *
