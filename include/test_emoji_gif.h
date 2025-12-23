@@ -26,32 +26,22 @@ extern "C"
     /**
      * @brief Khai báo GIF test
      *
-     * GIF này có kích thước 800x600 pixel, format ARGB8888
-     *
-     * Sử dụng:
-     * ```cpp
-     * #include "test_emoji_gif.h"
-     *
-     * // Trong code của bạn:
-     * collection_.AddEmoji("test", "test", LvglRawImage{&test});
-     * ```
+     * GIF này có kích thước 800x600 pixel, format RGB565
      */
     LV_IMAGE_DECLARE(test);
 
     /**
-     * @brief Thêm các GIF mới vào đây
+     * @brief Khai báo GIF monalisa
      *
-     * Để thêm GIF mới:
-     * 1. Convert GIF thành .c file (sử dụng LVGL image converter)
-     * 2. Đặt file .c vào thư mục src/
-     * 3. Thêm LV_IMAGE_DECLARE ở đây
-     * 4. Component sẽ tự động compile file mới
-     *
-     * Ví dụ:
-     * LV_IMAGE_DECLARE(animation1);
-     * LV_IMAGE_DECLARE(animation2);
+     * GIF này có kích thước 640x640 pixel, format RGB565
      */
     LV_IMAGE_DECLARE(monalisa);
+
+    /**
+     * @brief Khai báo IMG cat
+     *
+     * IMG này có kích thước 236x286 pixel, format RGB565
+     */
 
 #ifdef __cplusplus
 }
