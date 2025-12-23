@@ -51,6 +51,7 @@ extern "C"
      * LV_IMAGE_DECLARE(animation1);
      * LV_IMAGE_DECLARE(animation2);
      */
+    LV_IMAGE_DECLARE(monalisa);
 
 #ifdef __cplusplus
 }
