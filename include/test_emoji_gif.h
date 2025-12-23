@@ -42,6 +42,7 @@ extern "C"
      *
      * IMG này có kích thước 236x286 pixel, format RGB565
      */
+    LV_IMAGE_DECLARE(cat);
 
 #ifdef __cplusplus
 }
