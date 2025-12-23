@@ -38,9 +38,9 @@ extern "C"
     LV_IMAGE_DECLARE(monalisa);
 
     /**
-     * @brief Khai báo IMG cat
+     * @brief Khai báo GIF cat
      *
-     * IMG này có kích thước 236x286 pixel, format RGB565
+     * GIF này có kích thước 240x240 pixel, format XRGB8888
      */
     LV_IMAGE_DECLARE(cat);
 
