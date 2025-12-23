@@ -1,0 +1,11 @@
+dependencies:
+  lvgl/lvgl: '>=9.0'
+
+description: "Test GIF Component - Bộ sưu tập GIF tùy chỉnh cho board MDC-AI-V1"
+
+license: MIT
+
+version: 1.0.0
+
+# Khi bạn tạo Git repository, hãy cập nhật URL này
+# repository: git://github.com/YOUR_USERNAME/test-gif-component.git
